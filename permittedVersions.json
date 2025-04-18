@@ -1,11 +1,15 @@
 {
+  "latest": {
+    "version": 1.0,
+    "key": "oWE7333100Jbm5Lc18i9vZmSSU5b45sA"
+  },
   "1.0": {
     "Production": {
-      "key": "Q1PzWTjg6EpnGB9EPl8P8A==",
-      "expiry": "none"
+      "phrase": "Q1PzWTjg6EpnGB9EPl8P8A==",
+      "lockout": false
     },
     "Elevated": {
-      "key": "ICDzrJ8CycUrd5qkj8Tc5g=="
+      "phrase": "ICDzrJ8CycUrd5qkj8Tc5g=="
     }
   }
 }
