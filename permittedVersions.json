@@ -1,10 +1,11 @@
 {
-  "latest": {
-    "version": 1.0,
-    "key": "oWE7333100Jbm5Lc18i9vZmSSU5b45sA"
+  "keyStore": {
+    "1.0": {
+      "key": "oWE7333100Jbm5Lc18i9vZmSSU5b45sA"
+    }
   },
   "1.0": {
-    "Production": {
+    "Standard": {
       "phrase": "Q1PzWTjg6EpnGB9EPl8P8A==",
       "lockout": false
     },
